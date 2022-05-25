@@ -55,6 +55,10 @@ dev_dependencies:
   floor_generator: ^1.2.0
   
   flutter_lints: ^1.0.0
+  flutter_app_name: ^0.1.0
+
+flutter_app_name:
+  name: "Classic Weather App"
   
 
 flutter_icons:

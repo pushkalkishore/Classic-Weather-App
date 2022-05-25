@@ -2,7 +2,7 @@
     package="com.mk.weatherapp.weathearapp">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="weathearapp"
+        android:label="Classic Weather App"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
