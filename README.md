@@ -21,9 +21,9 @@ The flutter app lets you:
 - flutter_intl
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/75457058/160285900-c63a9bef-e215-4c2e-a5f0-caebac9aec2a.png)
-![image](https://user-images.githubusercontent.com/75457058/160285890-2e636208-bf67-42b6-9b7d-5bade82f5054.png)
-![image](https://user-images.githubusercontent.com/75457058/160286040-f13d87e1-0133-40f1-8832-71e938e47f2f.png)
+![image](assets/1.jpg)
+![image](assets/2.jpg)
+![image](assets/3.jpg)
 
 ## Permissions
 WeatherApp requires the following permissions in AndroidManifest.xml:
