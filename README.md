@@ -21,7 +21,7 @@ The flutter app lets you:
 - flutter_intl
 
 ## Screenshots
-![image](assets/1.jpg = 100x20)
+![image](assets/1.jpg =100x20)
 ![image](assets/2.jpg)
 ![image](assets/3.jpg)
 
