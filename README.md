@@ -21,9 +21,10 @@ The flutter app lets you:
 - flutter_intl
 
 ## Screenshots
-<img src="assets/1.jpg" alt="drawing" width="200"/>
-![image](assets/2.jpg)
-![image](assets/3.jpg)
+<img src="assets/1.jpg" alt="Screenshot 1" width="200"/>
+<img src="assets/2.jpg" alt="Screenshot 2" width="200"/>
+<img src="assets/3.jpg" alt="Screenshot 3" width="200"/>
+
 
 ## Permissions
 WeatherApp requires the following permissions in AndroidManifest.xml:
