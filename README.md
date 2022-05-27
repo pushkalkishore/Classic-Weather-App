@@ -21,7 +21,9 @@ The flutter app lets you:
 - flutter_intl
 
 ## Screenshots
-<img src="assets/1.jpg" alt="Screenshot 1" width="200" padding="2"/><img src="assets/2.jpg" alt="Screenshot 2" width="200"/><img src="assets/3.jpg" alt="Screenshot 3" width="200"/>
+<img src="assets/1.jpg" alt="Screenshot 1" width="200"/>
+<img src="assets/2.jpg" alt="Screenshot 2" width="200"/>
+<img src="assets/3.jpg" alt="Screenshot 3" width="200"/>
 
 
 ## Permissions
